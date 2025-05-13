@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **cowmonk/cowmonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+- I'm a crazy linux user, my current daily driver is LFS
+- I love C, suckless, and vim
+
+Currently working on [LearnixOS](https://learnixos.github.io). 
+Founder of the beginning of LearnixOS development.
