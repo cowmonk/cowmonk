@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - I love C, suckless, and vim
 
 Currently working on [LearnixOS](https://learnixos.github.io). 
-Founder of the beginning of LearnixOS development.
+Founder and first developer of the early LearnixOS development.
