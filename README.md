@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 
 ~~Currently working on [LearnixOS](https://learnixos.github.io).~~
 Taken up 👨‍🌾. See you on the other side. 
+
 Founder and first developer of the early LearnixOS development.
