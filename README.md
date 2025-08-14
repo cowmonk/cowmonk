@@ -1,4 +1,5 @@
 # Hi there 👋
+
 Welcome to my new profile
 
 Old profile: https://github.com/Rekketstone/
@@ -20,5 +21,6 @@ Here are some ideas to get you started:
 - I'm a crazy linux user, my current daily driver is LFS
 - I love C, suckless, and vim
 
-Currently working on [LearnixOS](https://learnixos.github.io). 
+~~Currently working on [LearnixOS](https://learnixos.github.io).~~
+Taken up 👨‍🌾. See you on the other side. 
 Founder and first developer of the early LearnixOS development.
